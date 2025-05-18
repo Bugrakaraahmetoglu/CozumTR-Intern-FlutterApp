@@ -30,12 +30,12 @@
 
 | Onboarding | Home | Play Song |
 |-----------|------|-----------|
-| ![Tablet Dikey Onboarding](screenshots/telefon_dikey_onboarding.png) | ![Tablet Dikey Home](screenshots/tablet_dikey_home.png) | ![Tablet Dikey PlaySong](screenshots/tablet_dikey_playsong.png) |
+| ![Tablet Dikey Onboarding](screenshots/telefon_dikey_onboarding.jpg) | ![Tablet Dikey Home](screenshots/tablet_dikey_home.png) | ![Tablet Dikey PlaySong](screenshots/tablet_dikey_playsong.png) |
 
 #### Yatay Görünüm
 
 | Home (1) | Home (2) | Play Song |
 |----------|----------|------------|
-|![Tablet Yatay Home 1](screenshots/tablet_yatay_home_1.png) ![Tablet Yatay Home 1](screenshots/tablet_yatay_home_1.png) | ![Tablet Yatay Home 2](screenshots/tablet_yatay_home_2.png) | ![Tablet Yatay PlaySong](screenshots/tablet_yatay_playSong.png) |
+|![Tablet Yatay Home 1](screenshots/tablet_yatay_onboarding.png) ![Tablet Yatay Home 1](screenshots/tablet_yatay_home_1.png) | ![Tablet Yatay Home 2](screenshots/tablet_yatay_home_2.png) | ![Tablet Yatay PlaySong](screenshots/tablet_yatay_playSong.png) |
 
 
