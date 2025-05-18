@@ -36,6 +36,6 @@
 
 | Home (1) | Home (2) | Play Song |
 |----------|----------|------------|
-|![Tablet Yatay Home 1](screenshots/tablet_yatay_onboarding.png) ![Tablet Yatay Home 1](screenshots/tablet_yatay_home_1.png) | ![Tablet Yatay Home 2](screenshots/tablet_yatay_home_2.png) | ![Tablet Yatay PlaySong](screenshots/tablet_yatay_playSong.png) |
+|![Tablet Yatay Home 1](screenshots/tablet_dikey_onboarding.png) ![Tablet Yatay Home 1](screenshots/tablet_yatay_home_1.png) | ![Tablet Yatay Home 2](screenshots/tablet_yatay_home_2.png) | ![Tablet Yatay PlaySong](screenshots/tablet_yatay_playSong.png) |
 
 
